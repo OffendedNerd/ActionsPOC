@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: OffendedNerd/clockbox:latest
+          tags: offendednerd/clockbox:latest
